@@ -170,7 +170,7 @@ I love to build smart software. My main focus now is **Agentic AI**. I build AI 
 <br/>
 
 <!-- ============================== GITHUB STATS ============================== -->
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -185,7 +185,7 @@ I love to build smart software. My main focus now is **Agentic AI**. I build AI 
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ============================== CONTACT ============================== -->
 ## 🤝 Let's Connect
